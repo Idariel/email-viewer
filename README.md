@@ -11,4 +11,9 @@ Things you may want to cover:
 * Deployment instructions
 
 
-[Heroku app email-viewer](https://email-viewer.herokuapp.com/)
+[Heroku app email-viewer](https://email-viewer.herokuapp.com/) : n'arrive pour l'instant pas à afficher la page d'accueil
+
+donc à voir en [localhost](http://localhost:3000/)
+
+* rediriger la page show vers la div lectureEmail
+* Faire marcher destroy
