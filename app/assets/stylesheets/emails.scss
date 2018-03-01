@@ -1,3 +1,20 @@
-// Place all the styles related to the Emails controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+#container{
+	display: flex;
+	flex-direction: row;
+}
+#listeEmail{
+	margin: 10px;
+	padding: 10px;
+	width: 30%;
+	height: 300px;
+	border: solid blue 2px;
+	border-radius: 15px;
+}
+#lectureEmail{
+	margin: 10px;
+	padding: 10px;
+	width: 60%;
+	height: 300px;
+	border: solid blue 2px;
+	border-radius: 15px;
+}

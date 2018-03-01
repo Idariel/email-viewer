@@ -9,7 +9,7 @@ class EmailsController < ApplicationController
 
   # GET /emails/1
   # GET /emails/1.json
-  def show
+  def _show
   end
 
   # GET /emails/new
