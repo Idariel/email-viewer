@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+emails = Email.create([{ object: 'envoi d\'emails'},{body: 'Je vais encore foirer cet exercice.'}])
+emails = Email.create([{ object: 'Autres emails'},{body: 'Autres choses.'}])
+emails = Email.create([{ object: 'Plus plus plus'},{body: 'Et encore plus.'}])
